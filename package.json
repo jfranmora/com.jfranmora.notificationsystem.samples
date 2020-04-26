@@ -6,5 +6,8 @@
   "category": "UI",
   "type": "sample",
   "unity": "2018.1",
-  "hideInEditor": false
+  "hideInEditor": false,
+  "dependencies": {
+    "com.jfranmora.notificationsystem": ""
+  }
 }
