@@ -1,7 +1,9 @@
 {
     "name": "jfranmora.notificationsystem.samples.runtime",
     "references": [
-        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+        "GUID:e5850d80cb753a44780014e950b23e14",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:10e34523204ba6c47b84461ff31bce59"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
