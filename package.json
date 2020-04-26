@@ -1,0 +1,10 @@
+{
+  "name": "com.jfranmora.notificationsystem.samples",
+  "displayName": "Notification System - Samples",
+  "version": "0.0.1",
+  "description": "Notification System - Samples",
+  "category": "UI",
+  "type": "sample",
+  "unity": "2018.1",
+  "hideInEditor": false
+}
